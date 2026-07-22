@@ -44,5 +44,4 @@ The Streamlit dashboard allows for two ways to process data:
 
 ---
 
-## 📸 Screenshots
-*(Visuals of the green gradient UI, Direct Text Input, File Uploads, and Wellness Chat interactions are located in the `/screenshots` folder).*
+s
