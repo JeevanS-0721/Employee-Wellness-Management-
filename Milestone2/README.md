@@ -43,5 +43,3 @@ The Streamlit dashboard allows for two ways to process data:
 * **Batch File Upload:** Users can upload `.csv` or `.txt` files containing hundreds of feedback entries, and the pipeline will process all of them at once, returning visual data charts.
 
 ---
-
-s
